@@ -1,4 +1,4 @@
 .*
-!/.gitignore
-.aws/
-.elasticbeanstalk/
+!.gitignore
+*/.aws
+*.pem
